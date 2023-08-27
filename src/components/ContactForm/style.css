@@ -1,0 +1,11 @@
+.contactFormCon{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ margin-top: 4rem;
+}
+.contactForm{
+    width: fit-content;
+    padding: 40px;
+    /* left: 30%; */
+}
